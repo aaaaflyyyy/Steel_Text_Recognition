@@ -1,1 +1,1 @@
-# Steel_Text_Recognization
+# Steel_Text_Recognition
